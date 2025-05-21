@@ -1,0 +1,27 @@
+Added Component: Designator=P10(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U6(TOF)
+Added Pin To Net: NetName=VCC5V Pin=P10-1
+Added Pin To Net: NetName=GND Pin=P10-3
+Added Pin To Net: NetName=VCC5V Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Pin To Net: NetName=VCC5V Pin=U6-6
+Added Pin To Net: NetName=GND Pin=U6-7
+Added Pin To Net: NetName=A24 Pin=P10-2
+Added Pin To Net: NetName=A24 Pin=U2-122
+Added Net: Name=A24
+Added Pin To Net: NetName=A25 Pin=U2-121
+Added Pin To Net: NetName=A25 Pin=U6-2
+Added Net: Name=A25
+Added Pin To Net: NetName=A35 Pin=U2-120
+Added Pin To Net: NetName=A35 Pin=U6-3
+Added Net: Name=A35
+Added Pin To Net: NetName=A36 Pin=U2-119
+Added Pin To Net: NetName=A36 Pin=U6-5
+Added Net: Name=A36
+Added Member To Class: ClassName=Car_board Member=Component P10 Header 3
+Added Member To Class: ClassName=Car_board Member=Component U2 TC264_CoreBoard
+Added Member To Class: ClassName=Car_board Member=Component U6 TOF
+Added Member To Class: ClassName=Car_board Member=Component U8 DRV8701E

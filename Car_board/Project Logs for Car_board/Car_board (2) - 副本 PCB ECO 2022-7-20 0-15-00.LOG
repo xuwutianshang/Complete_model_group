@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=VCC3V3 Pin=D3-K
+Added Pin To Net: NetName=VCC3V3 Pin=R41-2
+Added Pin To Net: NetName=VCC3V3 Pin=R42-2
+Added Pin To Net: NetName=VCC3V3 Pin=S7-3
+Added Member To Class: ClassName=Car_board Member=Component P16 Header 8X2
+Added Room: Name=Car_board

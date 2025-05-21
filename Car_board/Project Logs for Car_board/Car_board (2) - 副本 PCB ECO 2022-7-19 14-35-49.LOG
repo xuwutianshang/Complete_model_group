@@ -1,0 +1,40 @@
+Added Pin To Net: NetName=DVDD Pin=C32-2
+Added Pin To Net: NetName=NetQ4_3 Pin=P17-1
+Added Pin To Net: NetName=VCCBAT Pin=Q3-1
+Added Pin To Net: NetName=VCCBAT Pin=Q3-1
+Added Pin To Net: NetName=VCCBAT Pin=Q3-1
+Added Pin To Net: NetName=VCCBAT Pin=Q3-1
+Added Pin To Net: NetName=VCCBAT Pin=Q3-1
+Added Pin To Net: NetName=VCCBAT Pin=Q3-1
+Added Pin To Net: NetName=L_B Pin=Q3-3
+Added Pin To Net: NetName=L_B Pin=Q3-3
+Added Pin To Net: NetName=L_B Pin=Q3-3
+Added Pin To Net: NetName=VCCBAT Pin=Q4-1
+Added Pin To Net: NetName=VCCBAT Pin=Q4-1
+Added Pin To Net: NetName=VCCBAT Pin=Q4-1
+Added Pin To Net: NetName=VCCBAT Pin=Q4-1
+Added Pin To Net: NetName=VCCBAT Pin=Q4-1
+Added Pin To Net: NetName=VCCBAT Pin=Q4-1
+Added Pin To Net: NetName=L_B Pin=Q5-1
+Added Pin To Net: NetName=L_B Pin=Q5-1
+Added Pin To Net: NetName=L_B Pin=Q5-1
+Added Pin To Net: NetName=L_B Pin=Q5-1
+Added Pin To Net: NetName=L_B Pin=Q5-1
+Added Pin To Net: NetName=L_B Pin=Q5-1
+Added Pin To Net: NetName=GNDBAT Pin=Q5-3
+Added Pin To Net: NetName=GNDBAT Pin=Q5-3
+Added Pin To Net: NetName=GNDBAT Pin=Q5-3
+Added Pin To Net: NetName=GNDBAT Pin=Q6-3
+Added Pin To Net: NetName=GNDBAT Pin=Q6-3
+Added Pin To Net: NetName=GNDBAT Pin=Q6-3
+Added Pin To Net: NetName=DVDD Pin=U8-8
+Added Pin To Net: NetName=L_EN Pin=U8-14
+Added Pin To Net: NetName=L_PH Pin=U8-15
+Added Pin To Net: NetName=L_B Pin=U8-18
+Added Pin To Net: NetName=GNDBAT Pin=U8-20
+Added Pin To Net: NetName=GNDBAT Pin=U8-21
+Change Net Name : Old Net Name=NetQ4_3 New Net Name=L_A
+Change Net Name : Old Net Name=VCCCAM New Net Name=VCCOP
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=U8-17
+Added Net: Name=NetQ3_2

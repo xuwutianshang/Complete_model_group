@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=02.7 Pin=P19-2
+Removed Pin From Net: NetName=02.6 Pin=P19-6
+Removed Pin From Net: NetName=02.4 Pin=R30-1
+Removed Pin From Net: NetName=02.5 Pin=R31-1
+Removed Pin From Net: NetName=02.4 Pin=U2-94
+Removed Pin From Net: NetName=02.5 Pin=U2-95
+Added Pin To Net: NetName=02.5 Pin=P15-1
+Added Pin To Net: NetName=02.4 Pin=P15-5
+Added Pin To Net: NetName=02.4 Pin=R30-2
+Added Pin To Net: NetName=02.5 Pin=R31-2
+Change Net Name : Old Net Name=02.4 New Net Name=L_EN_IN
+Change Net Name : Old Net Name=02.5 New Net Name=L_PH_IN
+Added Pin To Net: NetName=02.4 Pin=R30-1
+Added Pin To Net: NetName=02.4 Pin=U2-94
+Added Net: Name=02.4
+Added Pin To Net: NetName=02.5 Pin=R31-1
+Added Pin To Net: NetName=02.5 Pin=U2-95
+Added Net: Name=02.5
+Added Pin To Net: NetName=M2 Pin=P15-2
+Added Pin To Net: NetName=M2 Pin=P19-2
+Added Pin To Net: NetName=M2 Pin=R38-1
+Added Net: Name=M2
+Added Pin To Net: NetName=M4 Pin=P15-6
+Added Pin To Net: NetName=M4 Pin=P19-6
+Added Pin To Net: NetName=M4 Pin=R37-1
+Added Net: Name=M4
