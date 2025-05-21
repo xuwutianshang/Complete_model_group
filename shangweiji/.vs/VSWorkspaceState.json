@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\config",
+    "\\src\\include",
+    "\\src\\src",
+    "\\src\\src\\detection",
+    "\\src\\src\\recognition",
+    "\\src\\tool"
+  ],
+  "SelectedNode": "\\src\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}
